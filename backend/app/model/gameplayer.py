@@ -1,3 +1,4 @@
+# backend/app/model/gameplayer.py
 from app.db import db
 from sqlalchemy_serializer import SerializerMixin
 from datetime import datetime

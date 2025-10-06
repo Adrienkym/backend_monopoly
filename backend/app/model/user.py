@@ -1,3 +1,4 @@
+# backend/app/model/user.py
 from app.db import db
 from sqlalchemy_serializer import SerializerMixin
 
