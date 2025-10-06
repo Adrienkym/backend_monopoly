@@ -1,5 +1,5 @@
 from flask import Flask
-from .db import db,migrate
+#from .db import db,migrate
 from .config import Config
 from app.model import User, Player, Game, GamePlayer
 from flask_bcrypt import Bcrypt 
